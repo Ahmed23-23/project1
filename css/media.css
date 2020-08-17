@@ -1,0 +1,30 @@
+
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+    .h11 {
+        color: #fff !important ;
+        font-weight: bold;
+        font-size: 1px ;
+    }
+
+    h1 {
+        color: #000;
+        font-weight: bold;
+        font-size: 4rem;
+    }
+    p {
+        color: #000;
+        margin-top: 0;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width: 575px) {
+    .xxxx  {
+        color: #000;
+     } }
+
+     .xxxx  {
+        color: #000;
+     }
